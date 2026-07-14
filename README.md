@@ -1,2 +1,7 @@
 # Image recognition with Teachable Machine
 In this repository a simple image classification project built using **Google's Teachable Machine**
+## Project Idea
+The goal of this Prject is to build an intelligent vehicle classification model that automatically recognizes and differentiates between three common types of road vehicles: 
+**- Cars**
+**- Motorcycles**
+**- Bicycles**
