@@ -7,4 +7,5 @@ The goal of this project is to build an intelligent vehicle classification model
 **Dataset & Trainig**
 
 Trained using **14-15 diverse images per class** taken from diffrent angles, prespictive and environmental conditions to ensure high accuracy
-!<img width="1326" height="910" alt="‪Image Model - Teachable Machines" src="https://github.com/user-attachments/assets/c850482e-71fe-438a-9b57-ed2b9e1d06b0" />
+
+<img width="1326" height="910" alt="‪Image Model - Teachable Machines" src="https://github.com/user-attachments/assets/c850482e-71fe-438a-9b57-ed2b9e1d06b0" />
