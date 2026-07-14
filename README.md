@@ -2,7 +2,7 @@
 In this repository a simple image classification project built using **Google's Teachable Machine**.
 
 ## Project Structure
-The repositry is orgnized as follows:
+The repository is orgnized as follows:
  * keras_model.h5 -The trained Keras model
  * labels.text - Class lables (car, motorcycle, bicycle)
  * predict.ipynb - Google Colab / Jupyter Notebook
