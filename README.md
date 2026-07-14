@@ -5,7 +5,12 @@ In this repository a simple image classification project built using **Google's 
 
 The repositry is orgnized as follows:
 
-''''text
+```text
+├── keras_model.h5          # The trained Keras model
+├── labels.txt              # Class labels (Cars, Bicycles, Motorcycles)
+├── predict.py              # Python script to run prediction
+├── test_image.jpg          # Sample image for testing
+└── README.md               # Project documentation
 
 ## Project Idea
 The goal of this project is to build an intelligent vehicle classification model that automatically recognizes and differentiates between three common types of road vehicles: **Cars**, **Motorcycles** and **Bicycles**.
